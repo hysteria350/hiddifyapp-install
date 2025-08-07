@@ -1,4 +1,4 @@
-# HiddifyApp (Android/iOS) 安装与配置
+# HiddifyApp (Android) 安装与配置
 ## **⓿ 前置条件**
 
 > 先进行 [**订阅购买**](https://serv011.20250710.top/#/plan) ，获取到订阅地址。订阅链接位于：仪表盘 > 一键订阅 , 然后复制订阅地址或者扫描二维码订阅。
