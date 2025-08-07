@@ -6,6 +6,8 @@
     
 *   [Windows 上安装与配置 HiddifyApp](install_hiddifyApp_on_windows.md)
 
-*   [Hiddify Next (Android/iOS) 安装与配置](hiddify_next_mobile_install.md)
-
+*   [Hiddify Next (Android) 安装与配置](hiddify_next_mobile_install.md)
+  
+*   [Hiddify Next (iOS) 安装与配置](hiddify_next_iOS_install.md)
+  
 *   [如何使用 HiddifyCli 或 Hiddify 命令行](How_to_use_HiddifyCli.md)
