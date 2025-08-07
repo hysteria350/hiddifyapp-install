@@ -63,7 +63,7 @@ pen http://localhost:6756/ui/?secret=K8WS6e31eSGXssd in your browser
 
 最后上一张管理界面截图如下：
 
-![Hiddify Next APP Welcome page](images/hiddify/hiddifycli-dashboard.png)
+![Hiddify Next APP Welcome page](hiddifycli-dashboard.png)
 
 可以进行节点测速，节点切换等操作。
 
