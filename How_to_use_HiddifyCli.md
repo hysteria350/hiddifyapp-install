@@ -21,7 +21,7 @@ sudo tar -xvzf /tmp/hiddify-cli-linux-amd64.tar.gz -C /usr/local/
 
 使用订阅 url 启动 Hiddify
 
-> 先进行 [**订阅购买**](https://shortlink181.github.io/1) ，获取到订阅地址。订阅链接位于：仪表盘 > 一键订阅 , 然后复制订阅地址或者扫描二维码订阅。
+> 先进行 [**订阅购买**](https://shortlink.20250812.xyz/1) ，获取到订阅地址。订阅链接位于：仪表盘 > 一键订阅 , 然后复制订阅地址或者扫描二维码订阅。
 
 ```bash
 
