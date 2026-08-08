@@ -11,7 +11,7 @@
 
 > 点击下方按钮下载 v2.0.5 版本
 
-[__**点击下载**__](https://ghfast.top/https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Android-universal.apk)
+[__**点击下载**__](https://github.tbap.top/https://github.com/hiddify/hiddify-next/releases/download/v2.0.5/Hiddify-Android-universal.apk)
 
 > 其他版本请访问 官方 [GithHub](https://github.com/hiddify/hiddify-app/releases/) 下载
 
