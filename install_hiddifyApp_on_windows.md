@@ -12,7 +12,7 @@
 
 > 点击下方按钮下载 v2.5.7 版本
 
-[__**点击下载**__](https://ghfast.top/https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Windows-Setup-x64.Msix)
+[__**点击下载**__](https://github.tbap.top/https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Windows-Setup-x64.Msix)
 
 > （其他版本请访问 官方 [GithHub](https://github.com/hiddify/hiddify-app/releases/) 下载）
 
