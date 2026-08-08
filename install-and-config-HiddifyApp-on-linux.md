@@ -15,7 +15,7 @@
 ```plaintext
 
 # 下载Hiddify rpm包
-wget -O /tmp/Hiddify-rpm-x64.rpm https://ghfast.top/https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-rpm-x64.rpm
+wget -O /tmp/Hiddify-rpm-x64.rpm https://github.tbap.top/https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-rpm-x64.rpm
 
 
 # 安装依赖包
@@ -35,7 +35,7 @@ sudo rpm -i /tmp/Hiddify-rpm-x64.rpm
 ```plaintext
 
 # 下载Hiddify rpm包
-wget -O /tmp/Hiddify-Debian-x64.deb https://ghfast.top/https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Debian-x64.deb
+wget -O /tmp/Hiddify-Debian-x64.deb https://github.tbap.top/https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Debian-x64.deb
 
 # 安装 Hiddify
 sudo apt install /tmp/Hiddify-Debian-x64.deb
