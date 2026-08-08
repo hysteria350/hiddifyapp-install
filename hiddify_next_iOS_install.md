@@ -12,7 +12,7 @@
 
 > 点击下方按钮下载 v2.0.5 版本
 
-[__**点击从这里下载**__](https://ghfast.top/https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-iOS.ipa)
+[__**点击从这里下载**__](https://github.tbap.top/https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-iOS.ipa)
 
 或者从 [![Download on the App Store](data:image/svg+xml;base64,CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjYwIiB2aWV3Qm94PSIwIDAgNTEyIDE1MCI+CiAgPHJlY3Qgd2lkdGg9IjUxMiIgaGVpZ2h0PSIxNTAiIHJ4PSIyMCIgZmlsbD0iIzAwMCIvPgogIDx0ZXh0IHg9IjkwIiB5PSI5MCIgZm9udC1zaXplPSI1MCIgZmlsbD0iI2ZmZiIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIj5BcHAgU3RvcmU8L3RleHQ+CiAgPGNpcmNsZSBjeD0iNTAiIGN5PSI3NSIgcj0iMzAiIGZpbGw9IiNmZmYiLz4KICA8cGF0aCBkPSJNNDUgNzUgTDU1IDc1IEw1MCA2MCBaIiBmaWxsPSIjMDAwIi8+Cjwvc3ZnPg==)](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone) 下载
 
